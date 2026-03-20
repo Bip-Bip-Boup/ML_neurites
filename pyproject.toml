@@ -1,7 +1,7 @@
 [project]
 name = "ml-neurites"
 version = "0.1.0"
-description = "Add your description here"
+description = "Dataset preparation for DLCV course"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
