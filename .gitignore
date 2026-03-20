@@ -22,4 +22,4 @@ rad.json
 TestResults.xml
 
 #raw data files
-.czi
+*.czi
