@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+*.tiff
+*.tif
+.DS_Store
+*.czi
