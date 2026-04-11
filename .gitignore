@@ -21,5 +21,11 @@ rad.json
 #Test results file
 TestResults.xml
 
-#raw data files
+*.tiff
+*.tif
+.DS_Store
 *.czi
+
+*.mid
+*.wav
+*.png
