@@ -12,6 +12,7 @@ dependencies = [
     "opencv-python>=4.13.0.92",
     "pandas>=3.0.1",
     "pretty-midi>=0.2.11",
+    "pydub>=0.25.1",
     "python-osc>=1.9.3",
     "pythonos>=0.1.8",
     "scikit-image>=0.26.0",
